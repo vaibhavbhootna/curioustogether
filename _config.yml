@@ -1,0 +1,64 @@
+# Site
+name: "Curious Together"
+title: "Curious Together"
+description: "Explore the world with me! Travel experiences, tips, and vlogs from my YouTube channel, Curious Together."
+logo: "assets/images/logo.png"
+favicon: "assets/images/logo.png"
+baseurl: "" # Leave empty for GitHub Pages
+google_analytics: "" # Add your tracking ID if needed
+disqus: "" # Add your Disqus shortname if using comments
+mailchimp-list: "" # Add your Mailchimp subscribe URL if using
+
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  vaibhav:
+    name: Vaibhav
+    display_name: Vaibhav
+    avatar: "assets/images/avatar.jpeg"
+    email: "" # Optional, add if needed
+    web: "https://www.youtube.com/@CuriousTogether" # Your YouTube channel
+    twitter: "" # Add Twitter URL if needed
+    description: "Traveler, explorer, and storyteller. Sharing my journeys and insights from across the globe."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: "/category/:name/"
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate)
+adsense: "disabled"
+adsense-data-ad-client: ""
+adsense-data-ad-slot: ""
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "enabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
