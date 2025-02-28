@@ -4,7 +4,7 @@ title: "Curious Together"
 description: "Explore the world with me! Travel experiences, tips, and vlogs from my YouTube channel, Curious Together."
 logo: "assets/images/logo.png"
 favicon: "assets/images/logo.png"
-baseurl: "" # Leave empty for GitHub Pages
+baseurl: "/curioustogether" # Leave empty for GitHub Pages
 google_analytics: "" # Add your tracking ID if needed
 disqus: "" # Add your Disqus shortname if using comments
 mailchimp-list: "" # Add your Mailchimp subscribe URL if using
