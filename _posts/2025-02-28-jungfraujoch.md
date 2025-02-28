@@ -7,7 +7,10 @@ categories: [Switzerland, Europe]
 tags: [Switzerland, Travel Vlog, Europe]
 image: assets/images/jungfraujoch-thumbnail.jpg
 comments: true
+featured: true
 ---
+
+Visiting Jungfraujoch was an unforgettable experience. The journey began with a scenic train ride through the Swiss Alps, offering breathtaking views of snow-capped peaks and lush valleys.
 
 ### Getting There
 
