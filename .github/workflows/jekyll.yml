@@ -1,0 +1,15 @@
+name: Deploy Jekyll Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: helaili/jekyll-action@2.0.7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
