@@ -5,7 +5,7 @@ date: 2025-02-28
 author: vaibhav
 categories: [Switzerland, Europe]
 tags: [Switzerland, Travel Vlog, Europe]
-image: assets/images/jungfraujoch-thumbnail.jpg
+image: assets/images/jungfraujoch-thumbnail.png
 comments: true
 featured: true
 ---
