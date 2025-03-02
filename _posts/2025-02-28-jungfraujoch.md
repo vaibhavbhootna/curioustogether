@@ -6,7 +6,7 @@ author: vaibhav
 categories: [Switzerland, Europe]
 tags: [Switzerland, Travel Vlog, Europe]
 image: assets/images/jungfraujoch-thumbnail.png
-comments: true
+comments: false
 featured: true
 ---
 

@@ -1,9 +1,9 @@
 # Site
-name: "Curious Together"
-title: "Curious Together"
+#name: "Curious Together"
+#title: "Curious Together"
 description: "Explore the world with me! Travel experiences, tips, and vlogs from my YouTube channel, Curious Together."
-logo: "assets/images/logo.png"
-favicon: "assets/images/logo.png"
+logo: "assets/images/ct-logo-s.png"
+favicon: "assets/images/ct-logo-s.png"
 baseurl: "/curioustogether" # Leave empty for GitHub Pages
 google_analytics: "" # Add your tracking ID if needed
 disqus: "" # Add your Disqus shortname if using comments
@@ -18,6 +18,14 @@ authors:
     name: Vaibhav
     display_name: Vaibhav
     avatar: "assets/images/avatar.jpeg"
+    email: "" # Optional, add if needed
+    web: "https://www.youtube.com/@CuriousTogether" # Your YouTube channel
+    twitter: "" # Add Twitter URL if needed
+    description: "Traveler, explorer, and storyteller. Sharing my journeys and insights from across the globe."
+  gunjan:
+    name: Gunjan
+    display_name: Gunjan
+    avatar: "assets/images/gunjan-avatar.jpg"
     email: "" # Optional, add if needed
     web: "https://www.youtube.com/@CuriousTogether" # Your YouTube channel
     twitter: "" # Add Twitter URL if needed

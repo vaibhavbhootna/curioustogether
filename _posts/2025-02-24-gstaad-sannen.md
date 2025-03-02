@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Day trip to Bollywood town Gstaad & Sannen"
-date: 2025-02-28
+date: 2025-02-24
 author: vaibhav
 categories: [Switzerland, Europe]
 tags: [Switzerland, Travel Vlog, Europe]
 image: assets/images/gstaad.png
-comments: true
-featured: true
+comments: false
+featured: false
 ---
 
 Switzerland has always been a dream destination for Bollywood lovers, thanks to the iconic movies shot here. From the unforgettable Dilwale Dulhania Le Jayenge (DDLJ) to many other Bollywood classics, the picturesque landscapes have been immortalized on the silver screen. On this trip, we explored some of the most famous Bollywood locations, and it was nothing short of magical!
@@ -15,7 +15,7 @@ Switzerland has always been a dream destination for Bollywood lovers, thanks to 
 ### **Our Vlog!**
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=UzYt8N4r3VM&t=22s" allowfullscreen></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UzYt8N4r3VM" allowfullscreen></iframe>
 </div>
 
 Saanen Railway Station: The Iconic 'Palat' Moment
